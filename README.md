@@ -1,3 +1,3 @@
 # hello-world
 sample for learning git
-this is chaged hello world!!!!!
+hiii this is a new repository
